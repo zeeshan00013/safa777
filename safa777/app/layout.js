@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Safa777 Game Download best online app |safa777 - Real Earning App",
+  title:
+    "Safa777 Game Download Best Online Money App | Real Earning App - Safa777",
   description:
     "Safa777 is a trending new casino app in Pakistan, offering exciting slot games and real cash rewards. Play,bet and earn effortlessly on your Android device.",
   keywords:
