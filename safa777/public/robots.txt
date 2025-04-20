@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://safa777game.pro
+
+# Sitemaps
+Sitemap: https://safa777game.pro/sitemap.xml
