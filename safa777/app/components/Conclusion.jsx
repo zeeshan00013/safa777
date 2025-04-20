@@ -9,12 +9,12 @@ const Conclusion = () => {
       </h2>
       <article>
         <p className="mt-6 md:text-lg">
-          <Link
+          <a
             className="underline text-[#45e023c5]"
             href={"http://www.safa777.com/?r=wlr9329"}
           >
             Safa777
-          </Link>{" "}
+          </a>{" "}
           isn't just another casino game it's a complete entertainment and
           earning platform tailored for users in Pakistan. Whether you're into
           thrilling slot games, multiplayer battles, or just looking to earn

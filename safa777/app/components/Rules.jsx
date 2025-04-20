@@ -35,11 +35,11 @@ const Rules = () => {
           </p>
         </div>
         <div className="">
-          <Link href="http://www.safa777.com/?r=wlr9329">
+          <a href="http://www.safa777.com/?r=wlr9329">
             <button className="text-white  w-full rounded-lg py-2 px-3 bg-[#53A700] mt-5 md:text-2xl flex items-center justify-center gap-2 cursor-pointer   mx-auto">
               Download safa777 <Download />
             </button>
-          </Link>
+          </a>
         </div>
       </div>
     </section>

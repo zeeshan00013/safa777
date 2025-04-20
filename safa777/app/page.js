@@ -31,12 +31,12 @@ export default function Home() {
             </h1>
             <p className="md:text-xl">
               Looking to earn real cash while having fun?
-              <Link
+              <a
                 href={"http://www.safa777.com/?r=wlr9329"}
                 className="underline m-2"
               >
                 Safa777
-              </Link>
+              </a>
               is the latest casino earning app in Pakistan, offering thrilling
               slot games, seamless gameplay, and secure betting options all in
               one powerful app. Whether youre spinning the reels or taking on
@@ -49,11 +49,11 @@ export default function Home() {
               gaming? Download the APP now and start your journey toward real
               cash rewards today!
             </p>
-            <Link href="http://www.safa777.com/?r=wlr9329">
+            <a href="http://www.safa777.com/?r=wlr9329">
               <button className="text-white  rounded-lg py-2 px-3 bg-[#53A700] mt-5 md:text-2xl flex items-center justify-center gap-2 cursor-pointer  w-full mx-auto">
                 Download apk <Download />
               </button>
-            </Link>
+            </a>
           </div>
         </div>
 
@@ -100,20 +100,20 @@ export default function Home() {
             quickly jump into action and begin their earning journey. The app is
             easy to use, features a user-friendly interface, and provides secure
             payment options like{" "}
-            <Link
+            <a
               className="underline text-green-700 "
               href={"http://jazzcash.com.pk/"}
             >
               {" "}
               JazzCash
-            </Link>{" "}
+            </a>{" "}
             ,{" "}
-            <Link
+            <a
               className="underline text-green-700 "
               href={"https://easypaisa.com.pk/"}
             >
               Easypaisa
-            </Link>{" "}
+            </a>{" "}
             , and Visa card for fast deposits and withdrawals. What makes
             Safa777 stand out is its focus on rewards and bonuses. From zero
             deposit bonuses to daily login rewards, PKR 100 welcome bonus, and
