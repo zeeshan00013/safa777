@@ -14,17 +14,21 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title:
-    "Safa777 Game Download Best Online Money App PK | Real Earning - Safa777",
+  metadataBase: new URL("https://safa777game.pro"),
+  title: {
+    default:
+      "Safa777 Game Download Best Online Money App PK | Real Earning - Safa777",
+    template: "%s | Safa777",
+  },
   description:
     "Safa777 is a trending new casino app in Pakistan, offering exciting slot games and real cash rewards. Play,bet and earn effortlessly on your Android device.",
-  keywords:
+  keywords: [
     "Safa777 game download,Safa777 app download Pakistan,casino earning app Pakistan,Safa777 game,Safa777 casino app,Safa777 new earning app,real cash casino app,Safa777 real money game",
+  ],
   author: "zeeshan",
   viewport: "width=device-width, initial-scale=1",
   openGraph: {
-    title: "Create Next App",
-    description: "Next.js app for building scalable applications",
+    description: "Sfafa777 is top online gambling app in Pakistan",
     url: "https://safa777game.pro",
     image: "/path/to/og-image.jpg",
     type: "website",
